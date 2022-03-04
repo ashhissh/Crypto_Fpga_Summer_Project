@@ -1,1 +1,2 @@
 # Crypto_Fpga_Summer_Project
+We started the project with the introduction of Digital Circuits and Verilog HDL and solved some basic problems on Verilog. Then we moved on to the cryptography part, where we learned encryption techniques like Caesar ciphers and block ciphers. After that, we moved to the DES part, where we learned DES and implemented 1 round and 16 round DES, and then at the end, we learned the basics of FPGAs and simulated Verilog code on FPGA.
